@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<head>
+    
+  <body>
+    <h1>Enes Buyukcelebi</h1>
+    <!--Kendimden bahsettigim kisim-->
+    <h2>Hakkimda</h2>
+    <p>
+      Merhaba,ben Enes ODTU'de son sinif Ingilizce Ogretmenligi
+      ogrencisiyim.Kendimi Web Development alaninda gelistirmek istiyorum.
+    </p>
+    <!--Kisaca hobilerimden bahsettigim bolum-->
+    <h2>Hobilerim</h2>
+    <p>
+      Futbol maclarini takip ediyor, cesitli diziler ve YouTube kanallari
+      ilziyorum.
+    </p>
+  </body>
+</head>
